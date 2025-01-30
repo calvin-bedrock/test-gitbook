@@ -1,0 +1,8 @@
+# 🗳️ Ecosystem
+
+EigenLayer has 4 main components in the ecosystem:
+
+1. **Actively Validated Services (AVS)**: AVS in Eigenlayer are decentralized services that will inherit Ethereum's security via EigenLayer. These services can support various networks, like sidechains, data layers, and more. Eigenlayer enhances security by using Ethereum's pooled resources for activities such as middleware services, block building and transaction ordering, opening doors for innovation in areas like MEV and PBS.
+2. **Ethereum Stakers**: Ethereum stakers in Eigenlayer can secure multiple networks by restaking their ETH. This means they can use their existing capital to support multiple networks through smart contracts. While this offers additional yields, it also poses a risk of slashing if stakers fail to meet the conditions set by the services they choose to support.
+3. **Node Operators**: Node operators in Eigenlayer provide computational resources to securely run various services, including decentralized applications (DA), oracles, and bridges. These operators have the freedom to choose the services they work for and implement the recommendations provided by the AVS.
+4. **Eigenlayer Protocol**: The Eigenlayer protocol consists of Ethereum smart contracts that facilitate trustless collaboration between stakers, node operators, and services. These contracts allow users to restake their assets, delegate them to node operators, and interact with on-chain service modules. Service modules have preset conditions for rewards and slashing to ensure smooth interactions between operators and services.

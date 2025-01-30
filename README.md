@@ -7,7 +7,7 @@ Bedrock support multiple assets to do both restaking / staking including:
 * [brBTC](multi-asset-liquid-staking/brbtc/): brBTC standing for Bedrock BTC, is designed specifically for Bitcoin holders seeking to participate in the next generation of DeFi opportunities. It accepts uniBTC and multiple wrapped BTC assets and Bedrock manages those assets on multiple trusted yield source layers such as Babylon, Kernel, Pell, Satlayer and etc.&#x20;
 * [uniBTC](multi-asset-liquid-staking/unibtc/): A restaking protocol that accept wrapped BTC tokens partnership with the BTC staking protocol [Babylon](https://babylonchain.io/learn#btc-staking) chain, the first supported wrapped BTC is wBTC token on Ethereum blockchain, so all the wBTC token holders will enjoy both yield on staking BTC tokens plus the security of Ethereum network.
 * [uniETH](multi-asset-liquid-staking/unieth/): Designed to **natively restake** and harness additional EigenLayer rewards, Bedrock brings together **institutional-grade** security and additional yield to liquid staking ETH.
-* [uniIOTX](multi-asset-liquid-staking/uniiotx/): The liquid staking solution on IoTeX blockchain removes several drawbacks that exist with Delegated Proof of Stake on IOTX.&#x20;
+* [uniIOTX](multi-asset-liquid-staking/uniiotx/): The liquid staking solution on IoTeX blockchain removes several drawbacks that exist with Delegated Proof of Stake on IOTX.  LFG!
 
 ## What Does Bedrock Offer?
 
